@@ -1,0 +1,6 @@
+[submodule "front-end-finance-app"]
+	path = front-end-finance-app
+	url = https://github.com/leosmarcondes/front-end-finance-app.git
+[submodule "back-end-finance-app"]
+	path = back-end-finance-app
+	url = https://github.com/leosmarcondes/back-end-finance-app.git
